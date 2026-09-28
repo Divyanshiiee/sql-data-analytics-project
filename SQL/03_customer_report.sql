@@ -95,7 +95,3 @@ SELECT
          ELSE total_sales/lifespan
     END AS avg_monthly_spend
 FROM customer_aggregation
-
-SELECT * FROM gold.report_cutomer
-
-SELECT * FROM  gold.report_cutomer
